@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasikumaryanapu&label=Profile%20views&color=0e75b6&style=flat" alt="sasikumaryanapu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasikumaryanapu" alt="sasikumaryanapu" /></a> </p>
-
 - 🔭 I’m currently working on **yodaskill**
 
 - 🌱 I’m currently learning **AWS**
